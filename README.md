@@ -17,7 +17,7 @@ I created a series of scatter plots to showcase the following relationships and 
 
 Part II
 -------
-Additionally, I use the geoViews Python library, and the Geoapify API to create a map that displays a point for every city, with the size of the point the humidity in each city.\
+Additionally, I use the geoViews Python library, and the Geoapify API to create a map that displays a point for every city, with the size of the point the humidity in each city.
 
 After specifying specific criteria, I used the Geoapify API to find the first hotel located within 10,000 meters that match the criteria, and added the hotel name and the country as additional information in the hover message for each city on the map.
 
