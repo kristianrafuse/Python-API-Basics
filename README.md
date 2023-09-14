@@ -1,6 +1,6 @@
 Python API Basics 
 -------
-Part I
+Part I WeatherPy
 -------
 In this example using Jupyter Notebook, I create a Python script to visualize the weather of over 500 cities of varying distances from the equator, using OpenWeatherMap API to retrieve weather data from the cities. 
 
@@ -15,7 +15,7 @@ I created a series of scatter plots to showcase the following relationships and 
 * Northern Hemisphere: Wind Speed vs. Latitude
 * Southern Hemisphere: Wind Speed vs. Latitude
 
-Part II
+Part II VacationPy
 -------
 Additionally, I use the geoViews Python library, and the Geoapify API to create a map that displays a point for every city, with the size of the point the humidity in each city.
 
