@@ -6,14 +6,14 @@ In this example using Jupyter Notebook, I create a Python script to visualize th
 
 I created a series of scatter plots to showcase the following relationships and compute the linear regression for each relationship:
 
-* Northern Hemisphere: Temperature vs. Latitude
-* Southern Hemisphere: Temperature vs. Latitude
-* Northern Hemisphere: Humidity vs. Latitude
-* Southern Hemisphere: Humidity vs. Latitude
-* Northern Hemisphere: Cloudiness vs. Latitude
-* Southern Hemisphere: Cloudiness vs. Latitude
-* Northern Hemisphere: Wind Speed vs. Latitude
-* Southern Hemisphere: Wind Speed vs. Latitude
+Northern Hemisphere: Temperature vs. Latitude
+Southern Hemisphere: Temperature vs. Latitude
+Northern Hemisphere: Humidity vs. Latitude
+Southern Hemisphere: Humidity vs. Latitude
+Northern Hemisphere: Cloudiness vs. Latitude
+Southern Hemisphere: Cloudiness vs. Latitude
+Northern Hemisphere: Wind Speed vs. Latitude
+Southern Hemisphere: Wind Speed vs. Latitude
 
 Part II
 -------
